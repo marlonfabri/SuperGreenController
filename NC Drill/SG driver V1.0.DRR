@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SG driver V1.0.PcbDoc   04/11/2018  19:14:26
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SG driver V1.0.TXT
+EIA File   : SG driver V1.0.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          427              56.53 Inch (1435.94 mm)
+T2        17.72mil (0.45009mm)     Round          43               18.97 Inch (481.74 mm)
+T3        43.31mil (1.10007mm)     Round          14               1.40 Inch (35.56 mm)
+T4        39.37mil (1mm)           Round          3         NPTH   0.38 Inch (9.72 mm)
+T5        82.68mil (2.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T6        96.46mil (2.45008mm)     Round          4         NPTH   0.63 Inch (15.88 mm)
+T7        157.48mil (3.99999mm)    Round          4         NPTH   11.84 Inch (300.82 mm)
+---------------------------------------------------------------------------
+Totals                                            496              89.75 Inch (2279.66 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
