@@ -2,6 +2,18 @@
 
 [![SuperGreenLab](assets/reddit-button.png?raw=true "SuperGreenLab")](https://www.reddit.com/r/SuperGreenLab)
 
+# Table of Contents
+
+   * [SuperGreenDriver](#supergreendriver)
+   * [Board Overview](#board-overview)
+   * [Outputs](#outputs)
+      * [Light and AC](#light-and-ac)
+      * [Motors](#motors)
+      * [Sensors](#sensors)
+      * [Power considerations](#power-considerations)
+      * [License](#license)
+      * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
+
 # SuperGreenDriver
 
 ![SuperGreenLed](assets/pcb-side.png?raw=true "SuperGreenLed")
@@ -23,7 +35,9 @@ Pull requests of relevant issues are warmly welcomed.
 * **ADDITIONAL** : 2.54 mm solderable header (additional pins and flash) JTAG and flash TAG connect interface
 * **STACKUP** : standard 4 layers 1.6mm FR4 (Signal-GND-POWER-Signal)
 
-# LIGHT/AC OUTPUTS
+# OUTPUTS
+
+## Light and AC
 
 * **L1->L4** : Provide both power (24V) and control (0-10V). These outputs can be used to power SuperGreenBoards 36.301B (20W) and 72.301B (40W) for a max power consumption of 80W.
 * **L5 & L6** : Power pin is not connected, only provide control (0-10V).
@@ -34,13 +48,13 @@ The 0-10V Analog output the Light/AC output can :
 * Control any AC equipement through a [SSR relay](https://amzn.to/2DSlBoa)
 * Control any device that can be driven by a 0-10V voltage
 
-# Motors
+## Motors
 
 **M1->M3** connectors are standard 2 pins JST connectors. It can be used to power 24V fans, blowers, pumps ect...
 
 Example of compatible devices : [120mm blower](https://amzn.to/2GQcyqW) [97mm blower](https://amzn.to/2XcGl2I) [120mm fan](https://amzn.to/2GyCE26) [80mm fan](https://amzn.to/2IyqqZ4) 
 
-# Sensors
+## Sensors
 
 * **S1** : 3V3 I2C port shared with embedded temperature/humidity sensor
 * **S2 & S2bis** : shared 3V3 I2C bus
