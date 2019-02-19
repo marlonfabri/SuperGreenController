@@ -37,7 +37,7 @@ The 0-10V Analog output the Light/AC output can :
 
 **M1->M3** connectors are standard 2 pins JST connectors. It can be used to power 24V fans, blowers, pumps ect...
 
-Example of compatible devices : [120mm blower](https://amzn.to/2GQcyqW) [97mm blower] (https://amzn.to/2XcGl2I) [120mm fan](https://amzn.to/2GyCE26) [80mm fan](https://amzn.to/2IyqqZ4) 
+Example of compatible devices : [120mm blower](https://amzn.to/2GQcyqW) [97mm blower](https://amzn.to/2XcGl2I) [120mm fan](https://amzn.to/2GyCE26) [80mm fan](https://amzn.to/2IyqqZ4) 
 
 # Sensors
 
