@@ -6,20 +6,18 @@
 
 ![SuperGreenLed](assets/pcb-side.png?raw=true "SuperGreenLed")
 
-Connected led driver from supergreenlab (https://supergreenlab.com/)
-
-supergreenDriver is an open hardware led driving solution (6 outputs up to 24V - 1.5A) powered by a esp32 WROOM. This design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Connected grow box controller with 6 light/AC control output (10V analog), 3 Motors output (24V/1A) and 3 sensors ports (I2C) from supergreenlab (https://supergreenlab.com/). This open hardware design is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 Pull requests of relevant issues are warmly welcomed.
 
 # Board Overview
 
-* **MCU** : ESP32-WROOM-32, wifi , bluetooth and BLE microcontroller (https://www.espressif.com/en/products/hardware/esp-wroom-32/overview)
-* **LED drivers** : 6xAL8860MP buck step-down, up to 1.5A led driver (https://www.diodes.com/assets/Datasheets/AL8860.pdf)
-* **DCDC** : TS30042 5V buck stepdown, up to 2A (https://www.semtech.com/uploads/documents/ts3004x.pdf)
-* **LDO** : AZ1117CH-3.3TRG1 3.3V 800mA LDO (https://www.diodes.com/assets/Datasheets/AZ1117C.pdf)
-* **POWER IN** : 24V standard 5mm barrel input (should be ok up to 40V)
-* **OUTPUTS** : standard JST-XH series connectors (6xLEDS, 2xfans, 1x blower, 1x sensor)
+* **MCU** : [ESP32-WROOM-32](https://www.espressif.com/en/products/hardware/esp-wroom-32/overview), wifi , bluetooth and BLE microcontroller. Fimrware : [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) app : [SuperGreenApp](https://github.com/supergreenlab/SuperGreenApp)
+* **Light/AC OUTPUTS** : 6x 0-10V Analog output (3.3V->10V done using [LM358](https://www.diodes.com/assets/Datasheets/LM358.pdf) op amp). Connector : [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277)
+* **MOTOR OUTPUTS** : 3x 24V output controlled by mosfet. Connector : [S2B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277)
+* **SENSOR OUTPUT** : 1x I2C shared with embedded temperature sensor, 1x I2C shared on 2 connectors. Connector : [S4B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277)
+* **POWER IN** : 24VDC/5A standard 5x2.5mm barrel/Jack input (Power supply : https://amzn.to/2DNSty4)
+* **DCDC** : [TS30041](https://www.semtech.com/uploads/documents/ts3004x.pdf) 3.3V buck stepdown, up to 1A
 * **ADDITIONAL** : 2.54 mm solderable header (additional pins and flash) JTAG and flash TAG connect interface
 
 # Board Stackup
