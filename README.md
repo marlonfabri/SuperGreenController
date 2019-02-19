@@ -11,8 +11,8 @@
       * [Motors](#motors)
       * [Sensors](#sensors)
       * [Power considerations](#power-considerations)
-      * [License](#license)
-      * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
+   * [License](#license)
+   * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
 
 # SuperGreenDriver
 
