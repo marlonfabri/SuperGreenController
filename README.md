@@ -34,6 +34,7 @@ Pull requests of relevant issues are warmly welcomed.
 * **DCDC** : [TS30041](https://www.semtech.com/uploads/documents/ts3004x.pdf) 3.3V buck stepdown, up to 1A
 * **ADDITIONAL** : 2.54 mm solderable header (additional pins and flash) JTAG and flash TAG connect interface
 * **STACKUP** : standard 4 layers 1.6mm FR4 (Signal-GND-POWER-Signal)
+* **SIZE** : 100mmx80mm
 
 # OUTPUTS
 
