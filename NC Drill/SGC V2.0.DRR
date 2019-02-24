@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SGC V2.0.PcbDoc   24/02/2019  12:50:53
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SGC V2.0-RoundHoles.TXT
+ASCII SlotHoles File : SGC V2.0-SlotHoles.TXT
+EIA File   : SGC V2.0.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          369              54.46 Inch (1383.17 mm)
+T2        43.31mil (1.10007mm)     Round          14               1.42 Inch (36.16 mm)
+T3        39.37mil (1mm)           Round          3         NPTH   0.38 Inch (9.72 mm)
+T4        82.68mil (2.10007mm)     Round          1         NPTH   0.00 Inch (0.00 mm)
+T5        96.46mil (2.45008mm)     Round          4         NPTH   0.63 Inch (15.88 mm)
+T6        122.05mil (3.10007mm)    Round          4         NPTH   10.08 Inch (256.00 mm)
+T7        161.42mil (4.10007mm)    Slot           4         NPTH   285.72 Inch (7257.22 mm)
+---------------------------------------------------------------------------
+Totals                                            399              352.68 Inch (8958.14 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

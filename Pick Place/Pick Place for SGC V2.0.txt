@@ -1,0 +1,128 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R7_L2      0603                  -500mil   -108.267mil       -500mil   -108.268mil   -470.473mil   -108.267mil  T        180.00 10K            
+R9_L2      0603              -579.724mil   -146.654mil   -579.724mil   -146.654mil   -579.724mil   -117.126mil  T        270.00 20K            
+R11_L2     0603                  -500mil   -165.355mil       -500mil   -165.354mil   -470.473mil   -165.355mil  T        180.00 10K            
+R13_L2     0603              -579.724mil   -245.079mil   -579.724mil   -245.079mil   -579.724mil   -274.606mil  T         90.00 10K            
+C5_L1      1206              -502.952mil     65.945mil   -502.953mil     65.945mil   -502.952mil    123.032mil  T        270.00 10uF           
+R7_L1      0603                  -500mil    236.221mil       -500mil     236.22mil   -470.473mil    236.221mil  T        180.00 10K            
+R9_L1      0603              -579.724mil    197.835mil   -579.724mil    197.835mil   -579.724mil    227.362mil  T        270.00 20K            
+R11_L1     0603                  -500mil    179.134mil       -500mil    179.134mil   -470.473mil    179.134mil  T        180.00 10K            
+R13_L1     0603              -579.724mil      99.41mil   -579.724mil     99.409mil   -579.724mil     69.882mil  T         90.00 10K            
+R7_L3      0603                  -500mil   -452.756mil       -500mil   -452.756mil   -470.472mil   -452.756mil  T        180.00 10K            
+C5_L3      1206              -502.953mil   -623.032mil   -502.953mil   -623.032mil   -502.953mil   -565.946mil  T        270.00 10uF           
+R9_L3      0603              -579.725mil   -491.142mil   -579.724mil   -491.142mil   -579.725mil   -461.613mil  T        270.00 20K            
+R11_L3     0603                  -500mil   -509.841mil       -500mil   -509.842mil   -470.472mil   -509.841mil  T        180.00 10K            
+R13_L3     0603              -579.725mil   -589.567mil   -579.724mil   -589.567mil   -579.725mil   -619.096mil  T         90.00 10K            
+C5_L2      1206              -502.953mil   -278.543mil   -502.953mil   -278.543mil   -502.953mil   -221.456mil  T        270.00 10uF           
+J7_S2      JST_XH-4_RIGHT_ANGLE_-SMD   1732.284mil          0mil   1732.284mil          0mil   1771.654mil    265.748mil  T         90.00 JST XH4        
+J7_S1      JST_XH-4_RIGHT_ANGLE_-SMD   1732.284mil   -826.772mil   1732.284mil   -826.772mil   1771.654mil   -561.024mil  T         90.00 JST XH4        
+R23        0603               856.299mil   -625.984mil    856.299mil   -625.984mil    856.299mil   -655.512mil  T         90.00 DNP            
+R22        0603               -15.748mil   1016.732mil    -15.748mil   1016.732mil    -15.748mil    987.205mil  T         90.00 10K            
+V16_S1     0402              1418.308mil    -698.82mil   1418.307mil   -698.819mil   1418.308mil   -718.505mil  T         90.00 EZJ-Z0V650DA   
+V15_S1     0402              1420.276mil   -797.244mil   1420.276mil   -797.244mil   1420.276mil   -777.559mil  T        270.00 EZJ-Z0V650DA   
+V14_S1     0402              1420.276mil    -895.67mil   1420.276mil   -895.669mil   1420.276mil   -875.985mil  T        270.00 EZJ-Z0V650DA   
+V13_S1     0402              1420.276mil   -994.094mil   1420.276mil   -994.095mil   1420.276mil   -974.409mil  T        270.00 EZJ-Z0V650DA   
+V13_S3     0402              1420.275mil    698.819mil   1420.276mil    698.819mil   1420.275mil    679.134mil  T         90.00 EZJ-Z0V650DA   
+V14_S3     0402              1420.275mil    797.245mil   1420.276mil    797.244mil   1420.275mil     777.56mil  T         90.00 EZJ-Z0V650DA   
+V15_S3     0402              1418.307mil    895.669mil   1418.307mil    895.669mil   1418.307mil    875.984mil  T         90.00 EZJ-Z0V650DA   
+V16_S3     0402              1418.307mil    994.095mil   1418.307mil    994.095mil   1418.307mil    1013.78mil  T        270.00 EZJ-Z0V650DA   
+R21        0603               -15.748mil    1111.22mil    -15.748mil    1111.22mil    -15.748mil   1081.693mil  T         90.00 10K            
+R20        0603               -15.748mil    827.756mil    -15.748mil    827.756mil    -15.748mil    857.284mil  T        270.00 10K            
+R19        0603               -15.748mil    922.244mil    -15.748mil    922.244mil    -15.748mil    892.716mil  T         90.00 10K            
+U5         QFN127P600-8N     1023.622mil   -629.921mil   1023.622mil   -629.921mil   1069.882mil   -659.449mil  T         90.00 SHT30-DIS-B    
+V9_M2      0402               589.566mil  -1026.575mil    589.567mil  -1026.575mil    609.251mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+V10_M2     0402               687.992mil  -1026.575mil    687.992mil  -1026.575mil    707.677mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+R14_M2     0603               370.079mil   -976.377mil    370.079mil   -976.378mil    370.079mil  -1005.905mil  T         90.00 10K            
+Q1_M2      SOT23              475.393mil   -976.377mil    475.394mil   -976.378mil    440.551mil   -938.975mil  T        360.00 DMN3404L-7     
+V10_M1     0402               130.905mil  -1026.575mil    130.904mil  -1026.575mil     150.59mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+V9_M1      0402                32.479mil  -1026.575mil     32.479mil  -1026.575mil     52.164mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+R14_M1     0603               -187.01mil   -976.377mil   -187.009mil   -976.378mil    -187.01mil  -1005.905mil  T         90.00 10K            
+Q1_M1      SOT23              -81.694mil   -976.377mil    -81.694mil   -976.378mil   -116.536mil   -938.975mil  T        360.00 DMN3404L-7     
+V10_M3     0402              1245.079mil  -1026.575mil    1245.08mil  -1026.575mil   1264.764mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+V9_M3      0402              1146.655mil  -1026.575mil   1146.654mil  -1026.575mil    1166.34mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+R14_M3     0603               927.166mil   -976.377mil    927.166mil   -976.378mil    927.166mil  -1005.905mil  T         90.00 10K            
+Q1_M3      SOT23             1032.481mil   -976.377mil   1032.481mil   -976.378mil    997.638mil   -938.975mil  T        360.00 DMN3404L-7     
+V8_L3      0402              -428.149mil  -1024.605mil    -428.15mil  -1024.606mil   -447.834mil  -1024.605mil  T        360.00 EZJ-Z0V650DA   
+V6_L3      0402              -526.575mil  -1024.605mil   -526.575mil  -1024.606mil    -546.26mil  -1024.605mil  T        360.00 EZJ-Z0V650DA   
+V4_L3      0402                  -625mil  -1026.575mil       -625mil  -1026.575mil   -605.314mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+V7_L3      0402             -1087.599mil  -1024.605mil  -1087.598mil  -1024.606mil  -1107.284mil  -1024.605mil  T        360.00 EZJ-Z0V650DA   
+V5_L3      0402             -1186.023mil  -1024.605mil  -1186.024mil  -1024.606mil  -1205.708mil  -1024.605mil  T        360.00 EZJ-Z0V650DA   
+V3_L3      0402             -1284.449mil  -1026.575mil  -1284.449mil  -1026.575mil  -1264.764mil  -1026.575mil  T        180.00 EZJ-Z0V650DA   
+V16_S2     0402              1418.308mil    127.954mil   1418.307mil    127.953mil   1418.308mil    108.269mil  T         90.00 EZJ-Z0V650DA   
+V15_S2     0402              1420.276mil     29.528mil   1420.276mil     29.528mil   1420.276mil     49.213mil  T        270.00 EZJ-Z0V650DA   
+V14_S2     0402              1420.276mil    -68.898mil   1420.276mil    -68.898mil   1420.276mil    -49.213mil  T        270.00 EZJ-Z0V650DA   
+V13_S2     0402              1420.276mil   -167.322mil   1420.276mil   -167.323mil   1420.276mil   -147.637mil  T        270.00 EZJ-Z0V650DA   
+V7_L1      0402             -1418.306mil    866.142mil  -1418.307mil    866.142mil  -1418.306mil    885.827mil  T        270.00 EZJ-Z0V650DA   
+V5_L1      0402             -1418.306mil    964.568mil  -1418.307mil    964.567mil  -1418.306mil    984.253mil  T        270.00 EZJ-Z0V650DA   
+V3_L1      0402             -1420.276mil   1062.992mil  -1420.275mil   1062.992mil  -1420.276mil   1043.307mil  T         90.00 EZJ-Z0V650DA   
+J3_L1      JST_XH-3_Right_angle_-SMD  -1732.283mil    944.882mil  -1732.283mil    944.882mil  -1771.654mil    773.623mil  T        270.00 JST XH3        
+C1         1206             -1007.874mil   1215.552mil  -1007.874mil   1215.551mil  -1007.874mil   1158.465mil  T         90.00 10uF           
+C2         0603               -935.04mil   1249.016mil   -935.039mil   1249.016mil    -935.04mil   1219.489mil  T         90.00 0.1uF          
+C3         0603             -1010.827mil   1106.299mil  -1010.827mil   1106.299mil  -1040.354mil   1106.299mil  T          0.00 0.1uF          
+R1         0603               -935.04mil   1150.591mil   -935.039mil   1150.591mil    -935.04mil   1180.119mil  T        270.00 10K            
+R2         0603                 -18.7mil    595.473mil    -18.701mil    595.472mil      -18.7mil    565.945mil  T         90.00 10K            
+V12        0402              1025.591mil    -19.685mil   1025.591mil    -19.685mil   1025.591mil          0mil  T        270.00 EZJ-Z0V650DA   
+V11        0402               624.016mil       -500mil    624.016mil       -500mil    604.331mil       -500mil  T        360.00 EZJ-Z0V650DA   
+V8_L2      0402             -1418.306mil  -1023.622mil  -1418.307mil  -1023.622mil  -1418.306mil  -1003.937mil  T        270.00 EZJ-Z0V650DA   
+V8_L1      0402             -1418.306mil     236.22mil  -1418.307mil     236.22mil  -1418.306mil    255.905mil  T        270.00 EZJ-Z0V650DA   
+V7_L2      0402             -1418.306mil     -393.7mil  -1418.307mil   -393.701mil  -1418.306mil   -374.015mil  T        270.00 EZJ-Z0V650DA   
+V6_L2      0402             -1418.306mil   -925.196mil  -1418.307mil   -925.197mil  -1418.306mil   -905.511mil  T        270.00 EZJ-Z0V650DA   
+V6_L1      0402             -1418.306mil    334.646mil  -1418.307mil    334.646mil  -1418.306mil    354.331mil  T        270.00 EZJ-Z0V650DA   
+V5_L2      0402             -1418.306mil   -295.276mil  -1418.307mil   -295.276mil  -1418.306mil   -275.591mil  T        270.00 EZJ-Z0V650DA   
+V4_L2      0402             -1420.276mil   -826.772mil  -1420.275mil   -826.772mil  -1420.276mil   -846.457mil  T         90.00 EZJ-Z0V650DA   
+V4_L1      0402             -1420.276mil    433.072mil  -1420.275mil    433.071mil  -1420.276mil    413.387mil  T         90.00 EZJ-Z0V650DA   
+V3_L2      0402             -1420.276mil    -196.85mil  -1420.275mil    -196.85mil  -1420.276mil   -216.535mil  T         90.00 EZJ-Z0V650DA   
+V2         0402               1433.07mil   1368.111mil   1433.071mil    1368.11mil   1452.755mil   1368.111mil  T        180.00 EZJ-Z0V650DA   
+V1         0402              1604.331mil   1368.109mil   1604.331mil    1368.11mil   1584.646mil   1368.109mil  T        360.00 EZJ-Z0V650DA   
+U3         QFN_3X3_16          19.764mil   -246.024mil     19.764mil   -246.024mil     -9.764mil   -305.079mil  T         90.00 TS30041-M033   
+U2_L3      SOP8              -767.717mil   -535.433mil   -767.716mil   -535.433mil   -874.016mil   -460.433mil  T        360.00 LM358S-13      
+U2_L2      SOP8              -767.716mil   -190.946mil   -767.716mil   -190.945mil   -874.015mil   -115.946mil  T        360.00 LM358S-13      
+U2_L1      SOP8              -767.716mil    153.543mil   -767.716mil    153.543mil   -874.015mil    228.543mil  T        360.00 LM358S-13      
+U1         ESP-WROOM-32      -476.378mil    920.276mil   -476.378mil    920.276mil   -830.709mil   1274.606mil  T          0.00 ESP-WROOM-32   
+SW1        KSS221GLFS        1507.875mil   1481.299mil   1507.874mil   1481.299mil   1624.017mil   1481.299mil  T        180.00 KSS221GLFS     
+R16        0603               149.685mil   -147.599mil    149.685mil   -147.598mil    149.685mil    -118.07mil  T        270.00 DNP            
+R15        0603               149.685mil   -246.024mil    149.685mil   -246.024mil    149.685mil    -275.55mil  T         90.00 10K            
+R12_L3     0603              -954.724mil   -589.567mil   -954.724mil   -589.567mil   -954.724mil   -619.095mil  T         90.00 10K            
+R12_L2     0603              -954.725mil   -245.079mil   -954.724mil   -245.079mil   -954.725mil   -274.606mil  T         90.00 10K            
+R12_L1     0603              -954.725mil     99.409mil   -954.724mil     99.409mil   -954.725mil     69.881mil  T         90.00 10K            
+R10_L3     0603             -1034.448mil   -509.842mil  -1034.449mil   -509.843mil   -1004.92mil   -509.842mil  T        180.00 10K            
+R10_L2     0603             -1034.449mil   -165.354mil  -1034.448mil   -165.354mil  -1004.921mil   -165.354mil  T        180.00 10K            
+R10_L1     0603             -1034.449mil    179.133mil  -1034.449mil    179.134mil  -1004.921mil    179.133mil  T        180.00 10K            
+R8_L3      0603              -954.724mil   -491.142mil   -954.724mil   -491.142mil   -954.724mil   -520.668mil  T         90.00 20K            
+R8_L2      0603              -954.725mil   -146.654mil   -954.724mil   -146.654mil   -954.725mil   -176.182mil  T         90.00 20K            
+R8_L1      0603              -954.725mil    197.835mil   -954.724mil    197.835mil   -954.725mil    168.307mil  T         90.00 20K            
+R6_L3      0603             -1034.448mil   -452.757mil  -1034.449mil   -452.756mil   -1004.92mil   -452.757mil  T        180.00 10K            
+R6_L2      0603             -1034.449mil   -108.268mil  -1034.448mil   -108.268mil  -1004.921mil   -108.268mil  T        180.00 10K            
+R6_L1      0603             -1034.449mil    236.221mil  -1034.449mil     236.22mil  -1004.921mil    236.221mil  T        180.00 10K            
+R5         0603              1200.787mil   1438.976mil   1200.787mil   1438.976mil   1200.787mil   1468.503mil  T        270.00 68R            
+R4         0603              1257.874mil   1438.976mil   1257.874mil   1438.976mil   1257.874mil   1468.504mil  T        270.00 DNP            
+R3         0603               1314.96mil   1438.976mil   1314.961mil   1438.976mil    1314.96mil   1468.504mil  T        270.00 1R             
+L2         8030               -236.22mil   -231.299mil    -236.22mil   -231.299mil   -125.984mil   -231.299mil  T        180.00 4.7uH          
+L1         APFA3010SEEZGKQBKC   1259.842mil   1529.528mil   1259.842mil   1538.386mil   1200.787mil   1538.386mil  T        180.00 APFA3010SEEZGKQBKC
+J6         PJ-036BH-SMT-TR    629.921mil   -101.377mil    629.921mil          0mil    389.764mil   -220.471mil  T        270.00 BARREL         
+J5_M3      JST_XH-2_Right_angle_-SMD   1215.552mil  -1338.582mil   1215.551mil  -1338.583mil   1093.503mil  -1377.953mil  T        360.00 JST XH 2       
+J5_M2      JST_XH-2_Right_angle_-SMD     657.48mil  -1338.582mil     657.48mil  -1338.583mil    535.433mil  -1377.953mil  T          0.00 JST XH 2       
+J5_M1      JST_XH-2_Right_angle_-SMD    101.378mil  -1338.582mil    101.378mil  -1338.583mil    -20.669mil  -1377.953mil  T        360.00 JST XH 2       
+J4_L3      JST_XH-3_Right_angle_-SMD    -506.89mil  -1338.582mil    -506.89mil  -1338.583mil    -335.63mil  -1377.953mil  T          0.00 JST XH3        
+J4_L2      JST_XH-3_Right_angle_-SMD  -1732.283mil   -944.882mil  -1732.283mil   -944.882mil  -1771.654mil  -1116.141mil  T        270.00 JST XH3        
+J4_L1      JST_XH-3_Right_angle_-SMD  -1732.283mil    314.961mil  -1732.283mil    314.961mil  -1771.654mil    143.701mil  T        270.00 JST XH3        
+J3_L3      JST_XH-3_Right_angle_-SMD  -1166.339mil  -1338.582mil  -1166.339mil  -1338.583mil   -995.078mil  -1377.953mil  T          0.00 JST XH3        
+J3_L2      JST_XH-3_Right_angle_-SMD  -1732.283mil    -314.96mil  -1732.283mil   -314.961mil  -1771.654mil   -486.219mil  T        270.00 JST XH3        
+J2         Pin_header_2.54_14_contacts_2_rows  -1025.591mil    675.196mil  -1025.591mil    675.197mil  -1075.591mil    975.196mil  T        270.00 Header 2.54    
+J1         TC2050-IDC        -100.788mil    206.694mil     49.213mil    206.693mil     -0.788mil    231.694mil  T        180.00 TAG connect    
+D1         SOD-123LF         -121.969mil   -499.961mil   -121.969mil   -499.961mil   -121.969mil   -441.298mil  T        270.00 MBR230LSFT1G   
+C10        0402                 8.857mil   -120.078mil      8.858mil   -120.079mil     28.542mil   -120.078mil  T        180.00 22nF           
+C9         0805              -305.019mil   -534.409mil   -305.019mil   -534.409mil   -342.421mil   -534.409mil  T        360.00 22uF           
+C8         0805               -305.04mil   -459.606mil    -305.04mil   -459.606mil   -342.441mil   -459.606mil  T        360.00 22uF           
+C7         0603                58.149mil   -399.567mil      58.15mil   -399.567mil     58.149mil   -370.038mil  T        270.00 0.1uF          
+C6         1206               -18.623mil   -433.031mil    -18.622mil   -433.031mil    -18.623mil   -375.945mil  T        270.00 10uF           
+C4_L3      1206             -1031.496mil   -623.032mil  -1031.496mil   -623.032mil  -1031.496mil   -680.119mil  T         90.00 10uF           
+C4_L2      1206             -1031.497mil   -278.544mil  -1031.496mil   -278.543mil  -1031.497mil    -335.63mil  T         90.00 10uF           
+C4_L1      1206             -1031.495mil     65.945mil  -1031.496mil     65.945mil  -1031.495mil      8.859mil  T         90.00 10uF           
+R17        0603               385.827mil   -572.835mil    385.827mil   -572.835mil    385.827mil   -602.362mil  T         90.00 2.49K          
+R18        2512               272.638mil   -384.844mil    272.638mil   -384.843mil    154.528mil   -384.844mil  T        360.00 0.02R          
+U4         SOT25              272.638mil   -554.134mil    272.638mil   -554.134mil    235.237mil   -602.363mil  T         90.00 ZXCT1110W5-7   
+C11        0603               913.386mil   -625.984mil    913.386mil   -625.984mil    913.386mil   -655.512mil  T         90.00 0.1uF          
+J7_S3      JST_XH-4_RIGHT_ANGLE_-SMD   1732.284mil    826.772mil   1732.284mil    826.772mil   1771.654mil    1092.52mil  T         90.00 JST XH4        
+
