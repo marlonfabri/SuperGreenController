@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-   * [SuperGreenDriver](#supergreendriver)
+   * [SuperGreenController](#supergreencontroller)
    * [Board Overview](#board-overview)
    * [Outputs](#outputs)
       * [Light and AC](#light-and-ac)
@@ -14,7 +14,7 @@
    * [License](#license)
    * [Creative Commons Warranties Disclaimer](#creative-commons-warranties-disclaimer)
 
-# SuperGreenDriver
+# SuperGreenController
 
 ![SuperGreenLed](assets/pcb-side.png?raw=true "SuperGreenLed")
 V1.0 Prototype
