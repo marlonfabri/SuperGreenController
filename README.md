@@ -29,7 +29,6 @@ Pull requests of relevant issues are warmly welcomed.
 * **Light/AC OUTPUTS** : 6x 0-10V Analog output (3.3V->10V done using [LM358](https://www.diodes.com/assets/Datasheets/LM358.pdf) op amp). Connector : [S3B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277)
 * **MOTOR OUTPUTS** : 3x 24V output controlled by mosfet. Connector : [S2B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277)
 * **SENSORS** : 1x I2C shared with embedded temperature sensor, 1x I2C shared on 2 connectors. Connector : [S4B-XH-SM4-TB](http://www.jst-mfg.com/product/detail_e.php?series=277)
-* **ONBOARD SENSORS** : [SHT30](https://www.sensirion.com/en/environmental-sensors/humidity-sensors/digital-humidity-sensors-for-various-applications/) for temperature and humidity and a current sensor ([ZXCT1110W5-7](https://www.diodes.com/assets/Datasheets/ZXCT1107_10.pdf), more on this one later)
 * **POWER IN** : 24VDC/5A standard 5x2.5mm barrel/Jack input (Power supply : https://amzn.to/2DNSty4)
 * **DCDC** : [TS30041](https://www.semtech.com/uploads/documents/ts3004x.pdf) 3.3V buck stepdown, up to 1A
 * **ADDITIONAL** : 2.54 mm solderable header (additional pins and flash) JTAG and flash TAG connect interface
